@@ -1,7 +1,0 @@
-{
-  "name": "aitestpro",
-  "version": "1.0.0",
-  "scripts": {
-    "test": "echo 'Project is ready!'"
-  }
-}
